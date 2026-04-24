@@ -1,6 +1,6 @@
 - I'm Gabriel
 - I'm interested in AI and Game Development
-- I'm Learning Roblox Studio, Python, and whatever else I find interesting
+- I'm Learning Unreal Engine, Python, and whatever else I find interesting
 - I do Not know if I'm doing Collaboration
 
 <!---
